@@ -1,0 +1,58 @@
+1. What type would you choose for the following “numbers”?
+	A person’s telephone number:
+	You’d typically use a string type here. Even though a phone number consists of digits, it can also contain special characters like parentheses, spaces, and hyphens. Additionally, it's not a number you'd perform mathematical operations on, so string is more appropriate.
+
+	A person’s height:
+	You’d use a double type because height can be a decimal (e.g., 5.8 feet). double allows you to store numbers with decimal points.
+
+	A person’s age:
+	You’d use an int (integer) type since age is a whole number that doesn’t need to store decimals.
+
+	A person’s gender (Male, Female, Prefer Not To Answer):
+	The best choice here would be an enum. An enum allows you to define a set of named constants, which can be more meaningful and easier to work with (e.g., Gender.Male, Gender.Female, Gender.PreferNotToAnswer).
+
+	A person’s salary:
+	You would use a decimal type because salaries often involve currency and need precise handling for financial calculations, especially when dealing with fractional amounts (like 50,000.75). decimal provides more accuracy for financial and monetary values compared to float or double.
+
+	A book’s ISBN:
+	You would use a string type because an ISBN is typically a series of digits (and sometimes letters), but it's not something you'd perform math on. Additionally, it may include hyphens.
+
+	A book’s price:
+	Like a salary, you would use decimal to handle the price, as it is a monetary value and needs precise representation.
+
+	A book’s shipping weight:
+	You would use a double type here, as weight can be a decimal value, and it needs to be represented with a floating-point number (e.g., 1.5 kilograms).
+
+	A country’s population:
+	For population, you’d typically use a long type. Since populations can be very large numbers, long can handle larger values than int.
+
+	The number of stars in the universe:
+	This is a vast number, so you would likely use ulong (unsigned long). It is an unsigned 64-bit integer that can store extremely large values.
+
+	The number of employees in each of the small or medium businesses in the United Kingdom (up to about 50,000 employees per business):
+	You would use an int here. Since the number is not excessively large, int is sufficient for this case.
+
+2. What are the differences between value type and reference type variables? What is boxing and unboxing?
+Value Type: A value type holds its data directly. When you assign a value type to another variable, a copy of the value is made. Examples of value types include int, float, char, bool, and structs. They are stored on the stack, which makes their memory usage efficient but limited in scope.
+Reference Type: A reference type holds a reference (or address) to the actual data. When you assign a reference type variable to another, both variables point to the same memory location, meaning changes made to one will affect the other. Reference types include string, arrays, classes, and delegates. They are stored on the heap and are managed by garbage collection.
+Boxing and Unboxing:
+Boxing is the process of converting a value type to a reference type. For example, when you assign an int to an object (which is a reference type), the int is boxed.
+Unboxing is the reverse process, where a reference type is converted back into a value type. You need to cast it back explicitly (e.g., int i = (int)obj;)
+
+3. What is meant by the terms managed resource and unmanaged resource in .NET?
+Managed Resource:
+A managed resource is a resource that is handled by the .NET runtime (the CLR - Common Language Runtime). 
+This means that memory allocation and deallocation are managed automatically by the Garbage Collector (GC). 
+Examples of managed resources are objects created from classes, arrays, and strings in .NET.
+Unmanaged Resource:
+An unmanaged resource refers to a resource that is not automatically managed by the .NET runtime. 
+These include file handles, database connections, network sockets, or memory allocated from the operating system (like pointers to native memory). 
+Since the .NET runtime doesn't automatically manage unmanaged resources, it's up to the developer to release these resources manually by implementing proper cleanup methods or using constructs like Dispose() or using blocks.
+
+4. What’s the purpose of the Garbage Collector in .NET?
+The Garbage Collector (GC) in .NET is a part of the Common Language Runtime (CLR) and is responsible for automatically managing memory. 
+The primary role of the GC is to reclaim memory occupied by objects that are no longer in use or referenced by the application. 
+It helps to prevent memory leaks and ensures that developers do not have to manually manage memory allocation and deallocation. 
+The GC tracks objects, identifies those that are unreachable, and frees up memory by deallocating those objects. 
+This process is largely transparent to the developer, making it easier to write code without worrying about low-level memory management.
+

@@ -1,0 +1,14 @@
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\ArrayLearning\bin\Debug\net8.0\ArrayLearning.exe
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\ArrayLearning\bin\Debug\net8.0\ArrayLearning.deps.json
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\ArrayLearning\bin\Debug\net8.0\ArrayLearning.runtimeconfig.json
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\ArrayLearning\bin\Debug\net8.0\ArrayLearning.dll
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\ArrayLearning\bin\Debug\net8.0\ArrayLearning.pdb
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\ArrayLearning\obj\Debug\net8.0\ArrayLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\ArrayLearning\obj\Debug\net8.0\ArrayLearning.AssemblyInfoInputs.cache
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\ArrayLearning\obj\Debug\net8.0\ArrayLearning.AssemblyInfo.cs
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\ArrayLearning\obj\Debug\net8.0\ArrayLearning.csproj.CoreCompileInputs.cache
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\ArrayLearning\obj\Debug\net8.0\ArrayLearning.dll
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\ArrayLearning\obj\Debug\net8.0\refint\ArrayLearning.dll
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\ArrayLearning\obj\Debug\net8.0\ArrayLearning.pdb
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\ArrayLearning\obj\Debug\net8.0\ArrayLearning.genruntimeconfig.cache
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\ArrayLearning\obj\Debug\net8.0\ref\ArrayLearning.dll

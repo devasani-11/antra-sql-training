@@ -1,0 +1,14 @@
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\Antra-C# Learning\bin\Debug\net8.0\Antra-C# Learning.exe
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\Antra-C# Learning\bin\Debug\net8.0\Antra-C# Learning.deps.json
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\Antra-C# Learning\bin\Debug\net8.0\Antra-C# Learning.runtimeconfig.json
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\Antra-C# Learning\bin\Debug\net8.0\Antra-C# Learning.dll
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\Antra-C# Learning\bin\Debug\net8.0\Antra-C# Learning.pdb
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\Antra-C# Learning\obj\Debug\net8.0\Antra-C# Learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\Antra-C# Learning\obj\Debug\net8.0\Antra-C# Learning.AssemblyInfoInputs.cache
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\Antra-C# Learning\obj\Debug\net8.0\Antra-C# Learning.AssemblyInfo.cs
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\Antra-C# Learning\obj\Debug\net8.0\Antra-C# Learning.csproj.CoreCompileInputs.cache
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\Antra-C# Learning\obj\Debug\net8.0\Antra-C# Learning.dll
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\Antra-C# Learning\obj\Debug\net8.0\refint\Antra-C# Learning.dll
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\Antra-C# Learning\obj\Debug\net8.0\Antra-C# Learning.pdb
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\Antra-C# Learning\obj\Debug\net8.0\Antra-C# Learning.genruntimeconfig.cache
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\Antra-C# Learning\obj\Debug\net8.0\ref\Antra-C# Learning.dll

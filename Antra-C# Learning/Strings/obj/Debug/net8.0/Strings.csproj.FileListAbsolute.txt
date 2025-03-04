@@ -1,0 +1,14 @@
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\Strings\bin\Debug\net8.0\Strings.exe
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\Strings\bin\Debug\net8.0\Strings.deps.json
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\Strings\bin\Debug\net8.0\Strings.runtimeconfig.json
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\Strings\bin\Debug\net8.0\Strings.dll
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\Strings\bin\Debug\net8.0\Strings.pdb
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\Strings\obj\Debug\net8.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\Strings\obj\Debug\net8.0\Strings.AssemblyInfoInputs.cache
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\Strings\obj\Debug\net8.0\Strings.AssemblyInfo.cs
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\Strings\obj\Debug\net8.0\Strings.csproj.CoreCompileInputs.cache
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\Strings\obj\Debug\net8.0\Strings.dll
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\Strings\obj\Debug\net8.0\refint\Strings.dll
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\Strings\obj\Debug\net8.0\Strings.pdb
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\Strings\obj\Debug\net8.0\Strings.genruntimeconfig.cache
+C:\Users\Roshini Devasani\Desktop\Project\Antra-C# Learning\Strings\obj\Debug\net8.0\ref\Strings.dll

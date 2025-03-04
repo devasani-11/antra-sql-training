@@ -1,0 +1,38 @@
+1. What happens when you divide an int variable by 0?
+Dividing an int variable by 0 results in a runtime exception called DivideByZeroException. This happens because division by zero is undefined in mathematics, and the CLR (Common Language Runtime) throws an exception to prevent the program from continuing with incorrect data.
+
+2. What happens when you divide a double variable by 0?
+When a double variable is divided by 0, it does not throw an exception. Instead, the result is Infinity or -Infinity, depending on the sign of the numerator. If both the numerator and denominator are 0, the result is NaN (Not a Number).
+
+3. What happens when you overflow an int variable, that is, set it to a value beyond its range?
+When you try to store a value in an int variable that is outside its range (-2,147,483,648 to 2,147,483,647), it results in an overflow. In debug mode, C# throws an exception (OverflowException). In release mode, the value wraps around (i.e., the value "overflows" or "underflows").
+
+4. What is the difference between x = y++; and x = ++y;?
+y++ is the post-increment operator. The value of y is assigned to x, and then y is incremented.
+++y is the pre-increment operator. y is incremented first, and then the new value of y is assigned to x.
+
+5. What is the difference between break, continue, and return when used inside a loop statement?
+break: Exits the loop entirely and continues execution after the loop.
+continue: Skips the current iteration and proceeds with the next iteration of the loop.
+return: Exits the method completely and returns control to the calling code (could also be used to return a value, depending on the method).
+
+6. What are the three parts of a for statement, and which of them are required?
+The three parts of a for statement are:
+Initialization: Setting up the loop variable (int i = 0;).
+Condition: The loop continues as long as this evaluates to true (i < 10;).
+Iteration/Update: The change made to the loop variable after each iteration (i++).
+The condition is required for the loop to function. The other two parts (initialization and iteration) are optional and can be omitted.
+
+7. What is the difference between the = and == operators?
+= is the assignment operator, used to assign a value to a variable (e.g., x = 10;).
+== is the equality operator, used to compare two values for equality (e.g., x == 10;).
+
+8. Does the following statement compile? for ( ; true; ) ;
+Yes, it compiles. This is an infinite for loop where the initialization and increment/decrement parts are omitted. The loop will continue forever because the condition is always true.
+
+9. What does the underscore _ represent in a switch expression?
+The underscore (_) in a switch expression is used as a catch-all or default case. It matches any value that doesn't match a prior case label. In C# 7.0 and later, the _ can be used in a switch expression as a default label.
+
+10. What interface must an object implement to be enumerated over by using the foreach statement?
+The object must implement the IEnumerable interface. The IEnumerable interface provides the GetEnumerator() method, which returns an enumerator that supports iteration over a collection.
+For arrays, lists, or other collections in C#, they already implement IEnumerable, so you can directly use foreach to iterate through them.
